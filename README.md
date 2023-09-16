@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @ahsanmahmood (have a look at my portfolio for more info <https://zaions.com/ahsan>)
-- 👀 I’m interested in learning "Latest Technologies".
-- 🌱 I’m currently learning "Game Development".
-- 💞️ I’m looking to collaborate on "Smart Contracts", "Game Development", "SAAS Development", etc.
-- 📫 How to reach me "Mobile/WhatsApp: <+923046619706>", "Email: <aoneahsan@gmail.com> | <ahsan@zaions.com>", "Website: <https://zaions.com/ahsan>" 
+# Ahsan Mahmood
 
-<!---
-ahsanmahmood/ahsanmahmood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Welcome 👋
+
+Hi there! I'm Ahsan Mahmood, the tech enthusiast behind Zaions. To know more about me, visit my [portfolio](https://zaions.com/ahsan).
+
+---
+
+## What I'm Interested In 👀
+
+- **Technologies**: Always on the hunt for learning the latest technologies.
+- **Game Development**: Currently diving deep into the world of game design and development.
+- **Smart Contracts & Blockchain**: Enthusiastic about the future of decentralized applications.
+- **SaaS Development**: Fascinated by the challenges and opportunities in building scalable and efficient Software as a Service solutions.
+
+---
+
+## Collaboration Opportunities 💞️
+
+I'm open to collaborating on:
+
+- Smart Contracts Development
+- Game Development Projects
+- SaaS Development
+
+---
+
+## How to Reach Me 📫
+
+- **Mobile/WhatsApp**: [+923046619706](tel:+923046619706)
+- **Emails**: 
+  - [aoneahsan@gmail.com](mailto:aoneahsan@gmail.com)
+  - [ahsan@zaions.com](mailto:ahsan@zaions.com)
+- **Portfolio**: [https://zaions.com/ahsan](https://zaions.com/ahsan)
+
+---
+
+Feel free to get in touch for any collaboration or learning opportunities. Looking forward to connecting with you!
+
